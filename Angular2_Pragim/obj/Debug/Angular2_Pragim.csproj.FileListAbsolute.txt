@@ -1,0 +1,173 @@
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\Angular2_Pragim.dll.config
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\Angular2_Pragim.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\Angular2_Pragim.pdb
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\csc.exe
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\csc.exe.config
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\csc.rsp
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\csi.exe
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\csi.exe.config
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\csi.rsp
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.AppContext.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Console.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.IO.Compression.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Security.Claims.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.ValueTuple.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\vbc.exe
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\vbc.exe.config
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\vbc.rsp
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\VBCSCompiler.exe
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\obj\Debug\Angular2_Pragim.csproj.CoreCompileInputs.cache
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\obj\Debug\Angular2_Pragim.csproj.CopyComplete
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\obj\Debug\Angular2_Pragim.dll
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\obj\Debug\Angular2_Pragim.pdb
+C:\Users\ilies\Desktop\Angular2_Pragim\Angular2_Pragim\obj\Debug\Angular2_Pragim.csprojAssemblyReference.cache
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\Angular2_Pragim.dll.config
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\Angular2_Pragim.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\Angular2_Pragim.pdb
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\csc.exe
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\csc.exe.config
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\csc.rsp
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\csi.exe
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\csi.exe.config
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\csi.rsp
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.AppContext.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Console.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.IO.Compression.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Security.Claims.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.ValueTuple.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\vbc.exe
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\vbc.exe.config
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\vbc.rsp
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\VBCSCompiler.exe
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\obj\Debug\Angular2_Pragim.csproj.CoreCompileInputs.cache
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\obj\Debug\Angular2_Pragim.csproj.CopyComplete
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\obj\Debug\Angular2_Pragim.dll
+C:\Users\ilies\Desktop\App_Angular2_Pragim\Angular2_Pragim\Angular2_Pragim\obj\Debug\Angular2_Pragim.pdb
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\obj\Debug\Angular2_Pragim.csprojAssemblyReference.cache
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\obj\Debug\Angular2_Pragim.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\obj\Debug\Angular2_Pragim.pdb
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\Angular2_Pragim.dll.config
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\Angular2_Pragim.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\Angular2_Pragim.pdb
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\csc.exe
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\csc.exe.config
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\csc.rsp
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\csi.exe
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\csi.exe.config
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\csi.rsp
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.AppContext.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Collections.Immutable.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Console.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Diagnostics.Process.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.IO.Compression.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.IO.FileSystem.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.IO.Pipes.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Reflection.Metadata.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Security.AccessControl.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Security.Claims.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Security.Principal.Windows.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Threading.Thread.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.ValueTuple.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Xml.XmlDocument.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Xml.XPath.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\vbc.exe
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\vbc.exe.config
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\vbc.rsp
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\VBCSCompiler.exe
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\roslyn\VBCSCompiler.exe.config
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\obj\Debug\Angular2_Pragim.csproj.CoreCompileInputs.cache
+E:\All resume&Pratic\All Pratique\Angular\Angular2\Angular2_Pragim\obj\Debug\Angular2_Pragim.csproj.CopyComplete

@@ -1,0 +1,40 @@
+<nested-container *ngIf="employees" [totalAll]="getCountAll()"
+                  totalMale={{getCountMale()}}
+                  bind-totalFemale=getCountFemale()
+                  (myCustomEvent)=whenCustomEventIsRaise($event)></nested-container>
+
+<table>
+  <thead>
+    <tr>
+      <th>Code</th>
+      <th>Name</th>
+      <th>Gender</th>
+      <th>Annual Salary</th>
+      <th>Date of Birth</th>
+    </tr>
+  </thead>
+  <tbody>
+    <ng-container *ngFor="let employee of employees; trackEmployeeByCode" ;>
+      <tr *ngIf="propertyToFiltreGenderWithNgIf == 'All' || propertyToFiltreGenderWithNgIf == employee.gender"> 
+        <td>
+          <a [routerLink] ="['/mesemployees', employee.code]">{{employee.code | uppercase}}</a>
+        </td>        
+        <td>{{employee.name |  MyCustomPipe : employee.gender}}</td>
+        <td>{{employee.gender}}</td>
+        <td>{{employee.annualSalary | currency:'USD': true: '1.2-2' }}</td>
+        <td>{{employee.dateOfBirth | date:'dd/MM/y'}}</td>
+      </tr>
+    </ng-container>
+    <tr *ngIf="!employees">
+      <td colspan="5">{{statusMessage}}</td>
+    </tr>
+    <tr *ngIf="employees && employees.length==0">
+      <td colspan="5">There is no employees to display</td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+<div>
+  Color Preference:
+  <input type="text" [(ngModel)]="currentColor" [style.background]="currentColor" />
+</div>

@@ -1,0 +1,7 @@
+<div>
+  Show :
+  <input type="radio" name="options" value="All" [(ngModel)]='selectedRadioButtonValue' (change)="raiseCustomEvent()" /> {{'All('+totalAll+')'}}
+  <input type="radio" name="options" value="Male" [(ngModel)]='selectedRadioButtonValue' (change)="raiseCustomEvent()" /> Male({{totalMale}})
+  <input type="radio" name="options" value="Female" [(ngModel)]='selectedRadioButtonValue' (change)="raiseCustomEvent()" /> Female({{totalFemale}})
+</div>
+<br />
